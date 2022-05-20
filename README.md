@@ -25,6 +25,22 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 🙅 Instalações e usos
 
+Para criar e executar os programas Java, é necessário o download o java JDK.
+
+Para realizar o download do JDK, basta ir até a página de download [clicando aqui](https://www.oracle.com/java/technologies/downloads/).
+Basta escolher a versão que desejar e fazer a instalação clicando em "next".
+
+Para verificar se o java e o compilador foram instalados corretamente, abra seu prompt de comando e digite:
+
+```
+java -version
+
+e depois digite:
+
+javac -version
+```
+
+Se tudo ocorrer bem, o terminal vai informar a versão instalada em sua máquina.
 
 Caso queira, clone ou faça o downlod desse repositório:
 
