@@ -34,9 +34,10 @@ Para verificar se o java e o compilador foram instalados corretamente, abra seu 
 
 ```
 java -version
-
+```
 e depois digite:
 
+```
 javac -version
 ```
 
