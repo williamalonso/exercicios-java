@@ -45,6 +45,19 @@ javac -version
 
 Se tudo ocorrer bem, o terminal vai informar a versão instalada em sua máquina.
 
+Para executar um programa java, primeiro compilamos o código com o javac:
+```
+$ javac MeuCodigo.java
+```
+
+Após executado o comando acima, se não for informado NADA no seu terminal é porque a compilação foi executada com sucesso. Posteriormente, pode-se notar que foi gerado um arquivo no diretório em que seu código foi compilado.
+
+Para executá-lo, execute o comando abaixo:
+
+```
+$ java SeuCodigo
+```
+
 Caso queira, clone ou faça o downlod desse repositório:
 
 ```
