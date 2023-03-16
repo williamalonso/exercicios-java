@@ -15,7 +15,8 @@ public class CalcularIdade {
         idade = dataSistema.getYear() - ler;
 
 		System.out.printf("A idade é: " + idade );
-
+        
+        ano.close();
 
     }
 }

@@ -10,5 +10,6 @@ public class TiposPrimitivos {
         System.out.print("Digite a nota do aluno: ");
         float nota = teclado.nextFloat(); //nextFloat lê float
         System.out.format("A nota de %s é %.1f \n", nome, nota);
+        teclado.close();
     }
 }
