@@ -34,5 +34,7 @@ public class salario {
         System.out.format("NUMBER = %.0f\n", numero_funcionario);
         System.out.format("SALARY = U$ %.2f\n", salario);
 
+        entrada.close();
+
     }
 }
